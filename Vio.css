@@ -15,17 +15,18 @@
 *
 {
 	font-family: 'ambleregular';
-	font-color: red;
+	color :gray;
+
 }
 
 h1
 {
 	font-size: 2em;
-	font-color : blue;
+	color:black;
 }
 
 p
 {
-	font-size: 2em;
-	font-color: red;
+	font-size: 1em;
 }
+
